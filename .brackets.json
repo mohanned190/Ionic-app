@@ -1,0 +1,8 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/Users/mohan/Desktop/ionic/Dars/plugins/cordova-plugin-device/src/tizen/DeviceProxy.js",
+        "C:/Users/mohan/Desktop/ionic/Dars/gulpfile.js",
+        "C:/Users/mohan/Desktop/ionic/Dars/plugins/cordova-plugin-device/tests/tests.js",
+        "C:/Users/mohan/Desktop/ionic/Dars/plugins/cordova-plugin-device/www/device.js"
+    ]
+}

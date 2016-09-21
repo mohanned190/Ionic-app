@@ -1,0 +1,40 @@
+/* Empty. Add your own CSS if you like */
+.bar.bar-header.bar-dark{
+color: red;
+}
+#a {
+    margin: 200px auto auto 0px ;
+    
+}
+#username{
+    text-align: right;
+    font-weight: normal;
+}
+#password{
+    text-align: right;
+    font-weight: normal;
+}
+.bar .title.title-left {
+    text-align: center;
+}
+
+#test {
+    display: inline;
+}
+.card{
+    text-align: right;
+    font-weight: normal;
+    
+}
+.item.item-divider{
+    width: 650px;
+        
+}
+#d{
+width: 200px;
+margin:50px auto auto 600px;
+display: block;
+background-color: silver;
+-webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0,0.4);
+-moz-box-shadow: 0px 0px 40px rgba(0, 0, 0,0.4);
+box-shadow:0px 0px 40px rgba(0, 0, 0,0.4);
